@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+nx-with-svelte
+# Nx with Svelte
 
-Based on "ABC" at https://www.abc.com/
+Based on "Nx - Add Svelte" at https://nx.dev/showcase/example-repos/add-svelte
 
 ## 100 - Introduction
 
